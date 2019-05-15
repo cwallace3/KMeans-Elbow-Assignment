@@ -30,3 +30,5 @@ plt.xlabel('Number of clusters')
 plt.ylabel('WCSS') #within cluster sum of squares
 plt.savefig("ElbowMethod_Iris.png", dpi = 100)
 plt.show()
+
+# The number of classes presented in the data set is shown to be 3 
